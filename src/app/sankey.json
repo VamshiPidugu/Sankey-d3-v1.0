@@ -1,0 +1,153 @@
+{
+  "data": {
+    "nodes": [
+      {
+        "id": "energy",
+        "name": "Energy"
+      },
+      {
+        "id": "resource",
+        "name": "Resource"
+      },
+      {
+        "id": "cutting",
+        "name": "Cutting"
+      },
+      {
+        "id": "product1",
+        "name": "Product1"
+      },
+      {
+        "id": "product2",
+        "name": "Product2"
+      },
+      {
+        "id": "product3",
+        "name": "Product3"
+      },
+      {
+        "id": "packaging",
+        "name": "Packaging"
+      },
+      {
+        "id": "painting",
+        "name": "Painting/Gluing"
+      },
+      {
+        "id": "pressing",
+        "name": "Steel Pressing"
+      },
+      {
+        "id": "moulding",
+        "name": "Injection Moulding"
+      }
+    ],
+    "links": [
+      {
+        "source": 0,
+        "target": 2,
+        "value": 30
+      },
+      {
+        "source": 0,
+        "target": 9,
+        "value": 15
+      },
+      {
+        "source": 0,
+        "target": 6,
+        "value": 15
+      },
+      {
+        "source": 0,
+        "target": 8,
+        "value": 20
+      },
+      {
+        "source": 0,
+        "target": 7,
+        "value": 10
+      },
+      {
+        "source": 1,
+        "target": 2,
+        "value": 10
+      },
+      {
+        "source": 1,
+        "target": 9,
+        "value": 10
+      },
+      {
+        "source": 1,
+        "target": 8,
+        "value": 5
+      },
+      {
+        "source": 1,
+        "target": 7,
+        "value": 10
+      },
+      {
+        "source": 2,
+        "target": 3,
+        "value": 20
+      },
+      {
+        "source": 2,
+        "target": 4,
+        "value": 20
+      },
+      {
+        "source": 9,
+        "target": 3,
+        "value": 10
+      },
+      {
+        "source": 9,
+        "target": 5,
+        "value": 15
+      },
+      {
+        "source": 6,
+        "target": 3,
+        "value": 3.75
+      },
+      {
+        "source": 6,
+        "target": 5,
+        "value": 3.75
+      },
+      {
+        "source": 6,
+        "target": 4,
+        "value": 7.5
+      },
+      {
+        "source": 8,
+        "target": 3,
+        "value": 5
+      },
+      {
+        "source": 8,
+        "target": 4,
+        "value": 20
+      },
+      {
+        "source": 7,
+        "target": 3,
+        "value": 5
+      },
+      {
+        "source": 7,
+        "target": 4,
+        "value": 10
+      },
+      {
+        "source": 7,
+        "target": 5,
+        "value": 5
+      }
+    ]
+  }
+}
